@@ -23,7 +23,7 @@
 
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lemosleonardo&show_icons=true&locale=en" alt="lemosleonardo" width="50%" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lemosleonardo&show_icons=true&locale=en" alt="lemosleonardo"/></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

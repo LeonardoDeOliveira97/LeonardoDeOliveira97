@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo Lemos!</h1>
 <h3 align="center">I'm just a web developer</h3>
 
-* 🌱 I’m currently learning **React Js, React Native, Node Js**
-
 * 📫 How to reach me **leonardo_lemos@outlook.com.br**
 
 <h3 align="center">Languages and Tools:</h3>

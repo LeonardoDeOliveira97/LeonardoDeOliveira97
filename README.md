@@ -3,11 +3,7 @@ Welcome to my Github profile! 👋
 </h1>
 
 <p>
-My name is Leonardo and I'm a software developer at Accenture, with experience in HTML, CSS, JavaScript, PHP, Java, MySQL and SQL Server. 
-</p>
-
-<p>
-Currently, I'm learning Java, Angular 2+, and Node.js to further expand my skills.
+My name is Leonardo and I'm a software developer with experience in HTML, CSS, JavaScript, PHP, Java, MySQL and SQL Server. 
 </p>
 
 <p align="center">

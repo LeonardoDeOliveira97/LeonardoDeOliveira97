@@ -1,5 +1,5 @@
 <h1>
-Welcome to my Github profile! 👋
+👋 Hello!
 </h1>
 
 <p>
@@ -7,7 +7,7 @@ My name is Leonardo and I'm a software developer with experience in HTML, CSS, J
 </p>
 
 <h3>
-Get in touch
+📬 Get in touch:
 </h3>
 
 <p>
